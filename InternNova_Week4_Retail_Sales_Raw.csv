@@ -1,0 +1,63 @@
+Order_ID,Order_Date,Customer_ID,Customer_Age,Gender,Product,Category,Region,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Method,Rating
+ORD-1001,2026-08-01,CUST-116,33,Male,Notebook Pack,Stationery,North,1,600,0,600,214.35,Net Banking,3.4
+ORD-1002,2026-08-02,CUST-115,51,Male,Mouse,Accessories,South,1,900,0,900,277.03,Net Banking,4.0
+ORD-1003,2026-08-03,CUST-101,29,Female,Backpack,Accessories,East,4,2200,0.1,7920.0,1990.16,Debit Card,3.5
+ORD-1004,2026-08-04,CUST-123,41,Female,Keyboard,Accessories,North,1,1800,0,1800,533.52,Cash,4.2
+ORD-1005,2026-08-05,CUST-124,55,Male,Mouse,Accessories,North,1,900,0.1,810.0,244.52,UPI,4.4
+ORD-1006,2026-08-06,CUST-125,36,Female,Headphones,Accessories,East,1,2500,0.05,2375.0,657.86,Credit Card,3.9
+ORD-1007,2026-08-07,CUST-111,53,Male,Printer,Electronics,,2,12000,0,24000,4158.57,Cash,3.9
+ORD-1008,2026-08-08,CUST-104,33,Male,Notebook Pack,Stationery,East,3,600,0.05,1710.0,584.03,Cash,3.7
+ORD-1009,2026-08-09,CUST-132,44,Female,Printer,Electronics,South,4,12000,0.1,43200.0,5761.96,Debit Card,3.5
+ORD-1010,2026-08-10,CUST-128,56,Female,Coffee Maker,Appliances,East,3,3500,0.1,9450.0,2073.43,Credit Card,5.0
+ORD-1011,2026-08-11,CUST-104,26,Male,Monitor,Electronics,South,3,16000,0.2,38400.0,4290.33,Cash,4.3
+ORD-1012,2026-08-12,CUST-101,26,Female,Mouse,Accessories,East,2,900,0.2,1440.0,381.42,UPI,3.7
+ORD-1013,2026-08-13,CUST-117,51,Male,Monitor,Electronics,North,3,16000,0,48000,9293.49,Debit Card,4.7
+ORD-1014,2026-08-14,CUST-111,,Male,Office Chair,Furniture,East,4,7000,0.05,26600.0,5202.57,Cash,3.2
+ORD-1015,2026-08-15,CUST-106,24,Female,Keyboard,Accessories,North,2,1800,0.05,3420.0,932.76,Net Banking,4.6
+ORD-1016,2026-08-16,CUST-128,32,Male,Monitor,Electronics,East,3,16000,0.05,45600.0,7248.2,Cash,5.0
+ORD-1017,2026-08-17,CUST-129,26,Male,Notebook Pack,Stationery,South,2,600,0.2,960.0,293.75,UPI,3.8
+ORD-1018,2026-08-18,CUST-101,23,Male,Laptop,Electronics,South,12,55000,0.05,627000.0,80665.56,UPI,4.8
+ORD-1019,2026-08-19,CUST-132,32,Male,Keyboard,Accessories,West,1,1800,0.05,1710.0,477.7,Credit Card,4.6
+ORD-1020,2026-08-20,CUST-128,41,Female,Mouse,Accessories,West,1,900,0,900,277.12,Cash,4.8
+ORD-1021,2026-08-21,CUST-122,25,Male,Laptop,electronics,South,1,55000,0,55000,7539.33,Credit Card,4.2
+ORD-1022,2026-08-22,CUST-116,23,Female,Monitor,Electronics,North,2,16000,0.05,30400.0,4844.43,UPI,4.4
+ORD-1023,2026-08-23,CUST-116,29,Female,Office Chair,Furniture,West,1,7000,0,7000,1629.54,Cash,3.6
+ORD-1024,2026-08-24,CUST-125,35,Female,Mouse,Accessories,East,1,900,0.05,855.0,258.53,Cash,4.5
+ORD-1025,2026-08-25,CUST-119,32,Male,Coffee Maker,Appliances,North,3,3500,0.2,8400.0,1458.61,Debit Card,3.3
+ORD-1026,2026-08-26,CUST-133,24,Male,Desk,Furniture,North,3,8500,0.05,24225.0,4426.06,Net Banking,
+ORD-1027,2026-08-27,CUST-116,56,Male,Printer,Electronics,North,2,12000,0,24000,4397.95,Cash,4.4
+ORD-1028,2026-08-28,CUST-114,39,Male,Desk,Furniture,East,3,8500,0.1,22950.0,4476.2,Cash,3.4
+ORD-1029,2026-08-29,CUST-105,19,Female,Notebook Pack,Stationery,North,2,600,0.2,960.0,276.95,UPI,4.2
+ORD-1030,2026-08-30,CUST-105,34,Female,Office Chair,Furniture,East,2,7000,0.05,13300.0,2912.67,Credit Card,4.0
+ORD-1031,2026-08-31,CUST-120,25,Male,Office Chair,Furniture,East,2,7000,0,14000,3150.5,UPI,4.8
+ORD-1032,2026-09-01,CUST-114,40,Male,Coffee Maker,Appliances,north,3,3500,0.05,9975.0,2186.23,Net Banking,4.1
+ORD-1033,2026-09-02,CUST-103,19,Female,Laptop,Electronics,South,1,55000,0.15,46750.0,5043.41,Debit Card,3.5
+ORD-1034,2026-09-03,CUST-108,23,Male,Backpack,Accessories,North,3,2200,0.15,5610.0,1289.33,Debit Card,4.2
+ORD-1035,2026-09-04,CUST-124,21,Female,Monitor,Electronics,South,2,16000,0.05,30400.0,4628.55,Credit Card,4.4
+ORD-1036,2026-09-05,CUST-110,34,Male,Keyboard,Accessories,South,3,1800,0.15,4590.0,1249.47,Cash,3.2
+ORD-1037,2026-09-06,CUST-116,36,Male,Coffee Maker,Appliances,North,2,3500,0.15,5950.0,1232.05,Cash,4.8
+ORD-1038,2026-09-07,CUST-130,41,Female,Backpack,Accessories,South,1,2200,0.05,2090.0,554.89,Credit Card,3.2
+ORD-1039,2026-09-08,CUST-105,36,Female,Printer,Electronics,West,2,12000,0.1,21600.0,2923.73,upi,3.8
+ORD-1040,2026-09-09,CUST-117,21,Male,Laptop,Electronics,West,1,55000,0.1,49500.0,5066.67,Debit Card,4.5
+ORD-1041,2026-09-10,CUST-113,35,Male,Keyboard,Accessories,West,2,1800,0,3600,1067.6,UPI,4.1
+ORD-1042,2026-09-11,CUST-122,58,Female,Office Chair,Furniture,North,1,7000,0.1,6300.0,1196.62,Debit Card,4.1
+ORD-1043,2026-09-12,CUST-119,54,Male,Notebook Pack,Stationery,South,2,600,0.1,1080.0,344.6,Cash,4.4
+ORD-1044,2026-09-13,CUST-101,38,Female,Mouse,Accessories,South,1,900,0.1,810.0,234.24,Cash,4.6
+ORD-1045,2026-09-14,CUST-114,51,Female,Monitor,Electronics,South,18,16000,0.2,230400.0,28167.22,UPI,3.7
+ORD-1046,2026-09-15,CUST-116,38,Male,Notebook Pack,Stationery,South,4,600,0.1,2160.0,669.17,Credit Card,3.2
+ORD-1047,2026-09-16,CUST-113,43,Female,Printer,Electronics,West,3,12000,0,36000,6071.85,Credit Card,3.5
+ORD-1048,2026-09-17,CUST-115,30,Female,Coffee Maker,Appliances,North,1,3500,0,3500,869.23,Net Banking,3.6
+ORD-1049,2026-09-18,CUST-134,54,Female,Smartphone,Electronics,West,3,28000,0.05,79800.0,12372.39,Net Banking,
+ORD-1050,2026-09-19,CUST-131,47,Female,Office Chair,Furniture,South,2,7000,0.2,11200.0,1970.26,Debit Card,4.6
+ORD-1051,2026-09-20,CUST-105,37,Male,Office Chair,Furniture,East,3,7000,0.05,19950.0,3974.8,Debit Card,3.8
+ORD-1052,2026-09-21,CUST-125,28,Male,Office Chair,Furniture,North,1,7000,0.05,6650.0,1300.24,Cash,3.9
+ORD-1053,2026-09-22,CUST-127,150,Male,Office Chair,Furniture,West,3,7000,0.15,17850.0,2942.89,Cash,3.2
+ORD-1054,2026-09-23,CUST-127,53,Male,Keyboard,Accessories,West,2,1800,0.15,3060.0,821.93,Credit Card,3.7
+ORD-1055,2026-09-24,CUST-126,29,Female,Backpack,Accessories,South,1,2200,0.15,1870.0,417.17,Net Banking,4.2
+ORD-1056,2026-09-25,CUST-128,27,Female,Mouse,Accessories,South,4,900,0,3600,1107.07,UPI,3.7
+ORD-1057,2026-09-26,CUST-125,36,Female,Keyboard,Accessories,East,1,1800,0.2,1440.0,343.88,UPI,4.0
+ORD-1058,2026-09-27,CUST-123,33,Male,Coffee Maker,Appliances,North,3,3500,0,10500,2677.47,UPI,4.9
+ORD-1059,2026-09-28,CUST-131,26,Male,Printer,Electronics,West,1,12000,0.05,11400.0,1688.98,Debit Card,4.6
+ORD-1060,2026-09-29,CUST-111,38,Male,Monitor,Electronics,North,4,16000,0,64000,12053.36,Debit Card,4.2
+ORD-1012,2026-08-12,CUST-101,26,Female,Mouse,Accessories,East,2,900,0.2,1440.0,381.42,UPI,3.7
+ORD-1035,2026-09-04,CUST-124,21,Female,Monitor,Electronics,South,2,16000,0.05,30400.0,4628.55,Credit Card,4.4
